@@ -3,8 +3,10 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/500px-Discovery_Kids_2021_2D_Gradient.svg.png" group-title="INFANTILES",Discovery Kids
 http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/500px-2002_Disney_Channel_full_logo.svg.png" group-title="INFANTILES",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2019_Disney_Junior_logo.svg/500px-2019_Disney_Junior_logo.svg.png" group-title="INFANTILES",Disney Junior
 http://190.14.10.19:16000/play/a02d/index.m3u8
